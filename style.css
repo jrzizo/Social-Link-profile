@@ -19,7 +19,7 @@ body {
     flex-direction: column;
     background-color: hsl(0, 0%, 12%);
     padding: 20px;
-    width: 90%;
+    width: 100%;
     max-width: 800px;
     border-radius: 20px;
     overflow: hidden;
